@@ -1,3 +1,7 @@
 # books-app
 
-my books app you can see here the page and all infomation:https://mariumtech2000.github.io/books-app/
+Hello, welcome to inflex technologies, this project is just a sample of book reading app.
+
+you can view the dummy website down the link below:
+
+https://inflextechnologies.github.io/book-reading-app/.
